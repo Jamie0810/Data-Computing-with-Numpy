@@ -1,6 +1,6 @@
 # Data Computing with Numpy
 
-👉 Find the complete article [here](https://hackmd.io/gh7V4TSQTE2gpUaGxQRhzw?view)✨
+👉 Find the complete article [here](https://jamieinca.medium.com/data-computing-with-python-b767ee58b19d)✨
 
 ### Requirements
 
